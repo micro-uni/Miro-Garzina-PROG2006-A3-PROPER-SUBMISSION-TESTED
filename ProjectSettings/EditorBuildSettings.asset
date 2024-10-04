@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Homepage.unity
+    guid: 2cce407271f9f44829f6e3911ae10455
+  - enabled: 1
+    path: Assets/Scenes/Page 1.unity
+    guid: 6431f4f75b5ac4bfaad9b69813e402f5
+  - enabled: 1
+    path: Assets/Scenes/Page 2.unity
+    guid: 0851cb85432e04276a0be3fd7dcd452f
+  - enabled: 1
+    path: Assets/Scenes/Page 2.1.unity
+    guid: b2bcdba2b3aa04d0d978c0a54fd94c06
+  - enabled: 1
+    path: Assets/Scenes/Page 3.unity
+    guid: 7dbc2b3618f92423094d517ca789f153
+  - enabled: 1
+    path: Assets/Scenes/Page 3.1.unity
+    guid: 870edb37cce8346cc81fa5fcd6703c45
+  - enabled: 1
+    path: Assets/Scenes/Page 4.unity
+    guid: 72705336cb3a74f79ad0363785b0411e
+  - enabled: 1
+    path: Assets/Scenes/Page 4.1.unity
+    guid: 6c326f2a7b7c0498e9a9d9e2ec773507
+  - enabled: 1
+    path: Assets/Scenes/Conclusion.unity
+    guid: 01e2264405ec948c29072c02edc84355
+  - enabled: 1
+    path: Assets/Scenes/Credits Page.unity
+    guid: e20238b1db48b4133a181a0c51c3d1fb
+  m_configObjects: {}
